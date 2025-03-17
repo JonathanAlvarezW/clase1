@@ -133,5 +133,60 @@ https://translate.google.com/
 https://github.com/carpedm20/awesome-hacking
 
 
+Resumen del repositorio: Awesome Hacking
+Descripción:
+El repositorio Awesome Hacking es una recopilación de herramientas, recursos y materiales educativos relacionados con hacking ético, pruebas de penetración (pentesting) y ciberseguridad ofensiva. Está diseñado para ayudar tanto a principiantes como a profesionales en el ámbito de la seguridad informática.
+
+Secciones destacadas en el repositorio
+
+ Herramientas de Pentesting
+Metasploit (Explotación de vulnerabilidades)
+Nmap (Escaneo de redes)
+Burp Suite (Pentesting web)
+Wireshark (Análisis de tráfico de red)
+John the Ripper (Cracking de contraseñas)
+
+ OSINT (Open Source Intelligence)
+TheHarvester (Recolección de correos, dominios, etc.)
+Maltego (Análisis de relaciones en inteligencia)
+SpiderFoot (Automatización de OSINT)
+
+ Seguridad en Aplicaciones Web
+OWASP ZAP (Escaneo de vulnerabilidades en aplicaciones web)
+SQLMap (Automatización de ataques SQL Injection)
+Wappalyzer (Detección de tecnologías en sitios web)
+
+ Ingeniería Social y Phishing
+SET (Social Engineering Toolkit)
+Gophish (Simulación de ataques de phishing)
+Evilginx2 (Phishing avanzado con bypass de 2FA)
+
+ Criptografía y Seguridad en Comunicaciones
+Hashcat (Cracking de contraseñas)
+GPG (Cifrado de archivos y correos)
+VeraCrypt (Cifrado de discos y particiones)
+
+ Explotación y Red Teaming
+Cobalt Strike (Simulación de ataques avanzados)
+Empire (Post-explotación y ejecución de scripts)
+Mimikatz (Extracción de credenciales en sistemas Windows)
+Seguridad en Redes Inalámbricas
+
+ Aircrack-ng (Auditoría de redes Wi-Fi)
+Kismet (Detección de redes inalámbricas)
+CTFs y Retos de Ciberseguridad
+
+ Hack The Box
+TryHackMe
+OverTheWire
+
+¿Por qué este repositorio es valioso?
+Contiene cientos de herramientas y enlaces organizados por categorías.
+Se actualiza con frecuencia, incorporando nuevas tecnologías y ataques.
+Es útil tanto para aprendizaje autodidacta como para profesionales en ciberseguridad.
+
+Enlace del repositorio:
+https://github.com/Hack-with-Github/Awesome-Hacking
+
 
 
