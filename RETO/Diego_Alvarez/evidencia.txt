@@ -1,0 +1,8 @@
+Reto: 
+Ataque de Inyección SQL para obtener  el tipo y la versión de base de datos:
+
+
+1) Descubrimos que la página realiza una consulta SQL para obtener sus productos por lo que usaremos esta brecha para el ataque.
+2) En la selección de un filtro que sabemos que hace una consulta SQL interceptamos el request tipo GET para cambiar el parámetro enviado.
+3) Como parámetro mandamos un query para obtener las columnas que devuelve y el tipo para con eso selección un UNION y con esto mostrar la data que buscamos.
+4) Luego de cambiar el query enviamos la solicitud con lo que obtenemos la información requerida en el cuerpo de la página atacada.
