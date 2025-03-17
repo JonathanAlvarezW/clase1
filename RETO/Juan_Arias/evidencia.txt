@@ -1,1 +1,7 @@
-Reto
+Reto: SQL INJECTION VULNERABILITY IN WHERE CLAUSE ALLOWING RETRIEVAL OF HIDDEN DATA
+
+a.Tenemos una página WEB de Compras de varios artículos.
+b.Nos desplazamos en varias categorias y nos muestra las fotos deisponibles de esa tienda.
+c.El ejercicio consiste en una consulta desde el navegador Http inyectemos un OR 1=1 para que permita mostrarnos todas las categorias en una sola consulta.
+d. Adjuntas las imagenes en un documento word para que verifiquen las sentencias que ejectutamos.
+e. Al final si realizamos bien el laboratorio nos sale un LAB SOLVED y eso fue lo que obtuvimos.
