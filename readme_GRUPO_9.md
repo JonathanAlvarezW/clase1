@@ -213,14 +213,14 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 ## Colaboradores de Clase1
 
 <a href="https://github.com/JonathanAlvarezW">
-  <img src="https://avatars.githubusercontent.com/u/203370867?v=4" width="100" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/203370867?v=4" width="100" height="100" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/Pirinolas">
-  <img src="https://avatars.githubusercontent.com/u/203370598?v=4" width="100" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/203370598?v=4" width="100" height="100" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/MaferPacheco">
-  <img src="https://avatars.githubusercontent.com/u/203370720?v=4" width="100" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/203370720?v=4" width="100" height="100" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/JoelSiza">
-  <img src="https://avatars.githubusercontent.com/u/203370601?v=4" width="100" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/203370601?v=4" width="100" height="100" style="border-radius: 50%;" />
 </a>
