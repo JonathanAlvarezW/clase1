@@ -1,8 +1,8 @@
 ## Integrantes Grupo 9
-#Jonathan Alvarez Wagnio
-#Jairo Siza
-#Juan Arias
-#Fernanda Pacheco
+🔹Jonathan Alvarez Wagnio
+🔹Jairo Siza
+🔹Juan Arias
+🔹Fernanda Pacheco
 
 ## RESUMEN SOBRE EL REPOSITORIO ESCOGIDO CYBERSOURCES EN GITHUB
 
