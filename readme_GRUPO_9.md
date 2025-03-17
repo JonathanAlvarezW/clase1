@@ -1,15 +1,17 @@
-Integrantes Grupo 9
-#Jonathan Alvarez Wagnio
-#Jairo Siza
-#Juan Arias
-#Mafer Pacheco
+## Integrantes Grupo 9
+🔹Jonathan Alvarez Wagnio
+🔹Jairo Siza
+🔹Juan Arias
+🔹Fernanda Pacheco
 
-RESUMEN SOBRE EL REPOSITORIO ESCOGIDO CYBERSOURCES EN GITHUB
+## RESUMEN SOBRE EL REPOSITORIO ESCOGIDO CYBERSOURCES EN GITHUB
 
 El siguiente Repositorio se trata de una recopilación de herramientas, recursos y materiales educativos diseñado para todo tipo de personas relacionadas con tecnología
 estudiantes, profesionales, profesores de la materia y entusiastas de la Ciberseguridad. No importa el nivel de experiencia , en este repositorio vamos a ver el siguiente material:
 
---------------OSINT (Open Source Intelligence) es la recopilación y análisis de información obtenida de fuentes públicas y accesibles al público. Se utiliza en diversos ámbitos, como ciberseguridad, inteligencia militar, investigaciones privadas, periodismo de investigación y más.
+--------------OSINT (Open Source Intelligence)--------------------------------
+
+Es la recopilación y análisis de información obtenida de fuentes públicas y accesibles al público. Se utiliza en diversos ámbitos, como ciberseguridad, inteligencia militar, investigaciones privadas, periodismo de investigación y más.
 
 Cuales son las Fuentes de OSINT?
 
@@ -36,16 +38,17 @@ Usos de OSINT
 OSINT es una herramienta poderosa, pero debe utilizarse de manera ética y legal para evitar violaciones de privacidad o regulaciones.
 
 
-
 ----------------¿Qué es el Pentesting?--------------------------------
 
 El Pentesting es una técnica de ciberseguridad que consiste en realizar ataques simulados a sistemas, redes o aplicaciones para identificar vulnerabilidades antes de que los hackers malintencionados las exploten.
+
 Objetivos del Pentesting:
 
-Identificar y corregir vulnerabilidades en sistemas.
-Evaluar la seguridad de aplicaciones web, móviles y redes.
-Comprobar la efectividad de las medidas de seguridad implementadas.
-Reducir el riesgo de ataques reales.
+    Identificar y corregir vulnerabilidades en sistemas.
+    Evaluar la seguridad de aplicaciones web, móviles y redes.
+    Comprobar la efectividad de las medidas de seguridad implementadas.
+    Reducir el riesgo de ataques reales.
+
 Fases del Pentesting:
 
     Reconocimiento – Recolección de información (OSINT, escaneo de redes, fingerprinting).
@@ -56,14 +59,14 @@ Fases del Pentesting:
 
 Herramientas más utilizadas en Pentesting:
 
-Nmap – Escaneo de redes y detección de puertos abiertos.
-Metasploit – Explotación de vulnerabilidades.
-Burp Suite – Análisis de seguridad en aplicaciones web.
-Wireshark – Análisis de tráfico de red.
-John the Ripper – Pruebas de fuerza bruta y análisis de contraseñas.
-
+    Nmap – Escaneo de redes y detección de puertos abiertos.
+    Metasploit – Explotación de vulnerabilidades.
+    Burp Suite – Análisis de seguridad en aplicaciones web.
+    Wireshark – Análisis de tráfico de red.
+    John the Ripper – Pruebas de fuerza bruta y análisis de contraseñas.
 
 El Pentesting es crucial para fortalecer la seguridad de cualquier empresa o sistema.
+
 
  -------------Criptografía en Ciberseguridad -----------------------------------
 
@@ -77,6 +80,7 @@ Principios de la Criptografía
     No repudio – Evita que un usuario niegue haber realizado una acción.
 
 Tipos de Criptografía
+
 Criptografía Simétrica (Clave Secreta)
 
     Usa una sola clave para cifrar y descifrar.
@@ -113,10 +117,10 @@ Aplicaciones de la Criptografía en Ciberseguridad
 ✔ Protección de contraseñas (hashing y salting).
 ✔ Blockchain y criptomonedas (Bitcoin, Ethereum).
 
-En este resumen del repositorio nosotros encontramos algunas deficiones claves para entender cuales herramientas o material vamos a manejar por eso tratamos de explicar esto de la más sencilla, ya que le repositorio es muy amplio y muy bueno para nuestra maestría.
+En este resumen del repositorio nosotros encontramos algunas definiciones claves para entender cuales herramientas o material vamos a manejar por eso tratamos de explicar esto de la más sencilla, ya que le repositorio es amplio y muy bueno para nuestra maestría.
 
 
----------------------JUSTIFICACION DE ELECCIÓN DEL REPOSITORIO-------------------------
+---------------------JUSTIFICACION 1 DE ELECCIÓN DEL REPOSITORIO-------------------------
 
 1. El respositorio es un super PROYECTO creado en GIT HUB para todas las personas que le apasionan el mundo de la CIBERSEGURIDAD, tiene una infinidad de herramientas para manejar cualquier clasificación de tecnología que nosotros deseemos REDES SOCIALES, PHOTOS , GEOINT, BUSQUEDA DE EMAIL, ETC.
 2. Esta complicacion de varios repositorios nos permite navegar en cualquiera de ellos, obviamente si no estan de baja el repositorio nosotros con esta herramienta que estamos aprendiendo /GITHUB-GIT/ vamos a poder ver varios proyectos de CIBERSEGURIDAD y tratar de aportar, crear, dar opiniones, y manejar el sitio de manera más experta aprovechando los recursos de esta clase TRATAMIENTO DE DATOS.
@@ -124,7 +128,7 @@ En este resumen del repositorio nosotros encontramos algunas deficiones claves p
 4. Con un inicio desde el mes de diciembre del 2024 hasta la actualidad este repositorio con más de 10 colaboradores y con mas de 69 mil visitas lo hace uno de los repositorios más completos de GITHUB.  
 
 
------------------------ENLACES DE INVESTIGACION----------------------------
+-----------------------ENLACES DE INVESTIGACION 1----------------------------
 
 https://www.sans.org/
 https://github.com/The-Osint-Toolbox/Email-Username-OSINT
@@ -133,50 +137,67 @@ https://translate.google.com/
 https://github.com/carpedm20/awesome-hacking
 
 
+---------------------JUSTIFICACION 2 DE ELECCIÓN DEL REPOSITORIO-------------------------
+
+1. El Repositorio CYBERSOURCES contiene una excelente fuente de recursos y herramientas para ciberseguridad, su ordenamiento por categorías facilita la orientación del aprendiz, es por ello por lo que lo hemos elegido. Entre algunas secciones que podemos encontrar son: OSINT, análisis forense, criptografía, análisis de malware, entre otros.
+2. El proyecto está dirigido tanto a profesionales como a entusiastas de la ciberseguridad, ofreciendo materiales educativos y herramientas prácticas para mejorar sus habilidades y conocimientos. Dentro de las herramientas que se incluyen en cada sección se encuentran las más populares y recomendadas por diferentes escuelas de Ciberseguridad. También incluye tutoriales y documentos de investigación.
+3. CyberSources ha establecido comunidades en plataformas como Reddit y Discord para fomentar la colaboración y el intercambio de conocimientos. Estas comunidades permiten a los miembros discutir temas actuales, compartir recursos y colaborar en proyectos relacionados con la ciberseguridad.
+4. Además, el repositorio está abierto a contribuciones de la comunidad, lo que significa que los usuarios pueden participar sugiriendo nuevas herramientas, recursos o mejoras. Esto enriquece continuamente el contenido disponible y mantiene el repositorio actualizado con las últimas tendencias y herramientas en ciberseguridad. Por ejemplo, dentro del repositorio existen enlaces de YouTube que ya no funcionan, esto es comprensible debido al dinamismo de Internet, pero se podría contribuir al repositorio encontrando nuevas fuentes relacionadas al contenido mencionado, de esta forma tendríamos información actualizada.
+
+
+-----------------------ENLACES DE INVESTIGACION 2----------------------------
+
+https://www.tokioschool.com/noticias/herramientas-ciberseguridad/
+https://www.incibe.es/ciudadania/herramientas 
+https://ciberseguridad.com/guias/recursos/ 
+https://quantika14.com/osint-y-analisis-forense/#page-content 
+
+
+## -----------------------OTRO REPOSITORIO RECOMENDADO----------------------------
+
 Resumen del repositorio: Awesome Hacking
-Descripción:
-El repositorio Awesome Hacking es una recopilación de herramientas, recursos y materiales educativos relacionados con hacking ético, pruebas de penetración (pentesting) y ciberseguridad ofensiva. Está diseñado para ayudar tanto a principiantes como a profesionales en el ámbito de la seguridad informática.
+Descripción: El repositorio Awesome Hacking es una recopilación de herramientas, recursos y materiales educativos relacionados con hacking ético, pruebas de penetración (pentesting) y ciberseguridad ofensiva. Está diseñado para ayudar tanto a principiantes como a profesionales en el ámbito de la seguridad informática.
 
-Secciones destacadas en el repositorio
+Secciones destacadas en el repositorio:
 
- Herramientas de Pentesting
+🔹Herramientas de Pentesting
 Metasploit (Explotación de vulnerabilidades)
 Nmap (Escaneo de redes)
 Burp Suite (Pentesting web)
 Wireshark (Análisis de tráfico de red)
 John the Ripper (Cracking de contraseñas)
 
- OSINT (Open Source Intelligence)
+🔹OSINT (Open Source Intelligence)
 TheHarvester (Recolección de correos, dominios, etc.)
 Maltego (Análisis de relaciones en inteligencia)
 SpiderFoot (Automatización de OSINT)
 
- Seguridad en Aplicaciones Web
+🔹Seguridad en Aplicaciones Web
 OWASP ZAP (Escaneo de vulnerabilidades en aplicaciones web)
 SQLMap (Automatización de ataques SQL Injection)
 Wappalyzer (Detección de tecnologías en sitios web)
 
- Ingeniería Social y Phishing
+🔹Ingeniería Social y Phishing
 SET (Social Engineering Toolkit)
 Gophish (Simulación de ataques de phishing)
 Evilginx2 (Phishing avanzado con bypass de 2FA)
 
- Criptografía y Seguridad en Comunicaciones
+🔹Criptografía y Seguridad en Comunicaciones
 Hashcat (Cracking de contraseñas)
 GPG (Cifrado de archivos y correos)
 VeraCrypt (Cifrado de discos y particiones)
 
- Explotación y Red Teaming
+🔹Explotación y Red Teaming
 Cobalt Strike (Simulación de ataques avanzados)
 Empire (Post-explotación y ejecución de scripts)
 Mimikatz (Extracción de credenciales en sistemas Windows)
 Seguridad en Redes Inalámbricas
 
- Aircrack-ng (Auditoría de redes Wi-Fi)
+🔹Aircrack-ng (Auditoría de redes Wi-Fi)
 Kismet (Detección de redes inalámbricas)
 CTFs y Retos de Ciberseguridad
 
- Hack The Box
+🔹Hack The Box
 TryHackMe
 OverTheWire
 
@@ -189,4 +210,17 @@ Enlace del repositorio:
 https://github.com/Hack-with-Github/Awesome-Hacking
 
 
+## Colaboradores de Clase1
 
+<a href="https://github.com/JonathanAlvarezW">
+  <img src="https://avatars.githubusercontent.com/u/203370867?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
+<a href="https://github.com/Pirinolas">
+  <img src="https://avatars.githubusercontent.com/u/203370598?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
+<a href="https://github.com/MaferPacheco">
+  <img src="https://avatars.githubusercontent.com/u/203370720?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
+<a href="https://github.com/JoelSiza">
+  <img src="https://avatars.githubusercontent.com/u/203370601?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;" />
+</a>
