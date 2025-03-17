@@ -208,3 +208,11 @@ Es útil tanto para aprendizaje autodidacta como para profesionales en cibersegu
 
 Enlace del repositorio:
 https://github.com/Hack-with-Github/Awesome-Hacking
+
+
+## Colaboradores de Clase1
+
+[![Jonathan Diego Alvarez](https://avatars.githubusercontent.com/u/JonathanAlvarezW?v=4)](https://github.com/JonathanAlvarezW)
+[![Juan Carlos Arias](https://avatars.githubusercontent.com/u/Pirinolas?v=4)](https://github.com/Pirinolas)
+[![Maria Fernanda Pacheco](https://avatars.githubusercontent.com/u/MaferPacheco?v=4)](https://github.com/MaferPacheco)
+[![Jairo Joel Siza](https://avatars.githubusercontent.com/u/JoelSiza?v=4)](https://github.com/JoelSiza)
