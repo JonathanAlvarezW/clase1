@@ -1,15 +1,15 @@
-##Integrantes Grupo 9
+## Integrantes Grupo 9
 #Jonathan Alvarez Wagnio
 #Jairo Siza
 #Juan Arias
 #Fernanda Pacheco
 
-##RESUMEN SOBRE EL REPOSITORIO ESCOGIDO CYBERSOURCES EN GITHUB
+## RESUMEN SOBRE EL REPOSITORIO ESCOGIDO CYBERSOURCES EN GITHUB
 
 El siguiente Repositorio se trata de una recopilación de herramientas, recursos y materiales educativos diseñado para todo tipo de personas relacionadas con tecnología
 estudiantes, profesionales, profesores de la materia y entusiastas de la Ciberseguridad. No importa el nivel de experiencia , en este repositorio vamos a ver el siguiente material:
 
-##--------------OSINT (Open Source Intelligence)--------------------------------
+--------------OSINT (Open Source Intelligence)--------------------------------
 
 Es la recopilación y análisis de información obtenida de fuentes públicas y accesibles al público. Se utiliza en diversos ámbitos, como ciberseguridad, inteligencia militar, investigaciones privadas, periodismo de investigación y más.
 
@@ -153,7 +153,7 @@ https://ciberseguridad.com/guias/recursos/
 https://quantika14.com/osint-y-analisis-forense/#page-content 
 
 
------------------------OTRO REPOSITORIO RECOMENDADO----------------------------
+## -----------------------OTRO REPOSITORIO RECOMENDADO----------------------------
 
 Resumen del repositorio: Awesome Hacking
 Descripción: El repositorio Awesome Hacking es una recopilación de herramientas, recursos y materiales educativos relacionados con hacking ético, pruebas de penetración (pentesting) y ciberseguridad ofensiva. Está diseñado para ayudar tanto a principiantes como a profesionales en el ámbito de la seguridad informática.
