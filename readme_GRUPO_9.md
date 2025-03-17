@@ -1,15 +1,15 @@
-Integrantes Grupo 9
+##Integrantes Grupo 9
 #Jonathan Alvarez Wagnio
 #Jairo Siza
 #Juan Arias
 #Fernanda Pacheco
 
-RESUMEN SOBRE EL REPOSITORIO ESCOGIDO CYBERSOURCES EN GITHUB
+##RESUMEN SOBRE EL REPOSITORIO ESCOGIDO CYBERSOURCES EN GITHUB
 
 El siguiente Repositorio se trata de una recopilación de herramientas, recursos y materiales educativos diseñado para todo tipo de personas relacionadas con tecnología
 estudiantes, profesionales, profesores de la materia y entusiastas de la Ciberseguridad. No importa el nivel de experiencia , en este repositorio vamos a ver el siguiente material:
 
---------------OSINT (Open Source Intelligence)--------------------------------
+##--------------OSINT (Open Source Intelligence)--------------------------------
 
 Es la recopilación y análisis de información obtenida de fuentes públicas y accesibles al público. Se utiliza en diversos ámbitos, como ciberseguridad, inteligencia militar, investigaciones privadas, periodismo de investigación y más.
 
