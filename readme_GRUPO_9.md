@@ -121,7 +121,7 @@ En este resumen del repositorio nosotros encontramos algunas deficiones claves p
 1. El respositorio es un super PROYECTO creado en GIT HUB para todas las personas que le apasionan el mundo de la CIBERSEGURIDAD, tiene una infinidad de herramientas para manejar cualquier clasificación de tecnología que nosotros deseemos REDES SOCIALES, PHOTOS , GEOINT, BUSQUEDA DE EMAIL, ETC.
 2. Esta complicacion de varios repositorios nos permite navegar en cualquiera de ellos, obviamente si no estan de baja el repositorio nosotros con esta herramienta que estamos aprendiendo /GITHUB-GIT/ vamos a poder ver varios proyectos de CIBERSEGURIDAD y tratar de aportar, crear, dar opiniones, y manejar el sitio de manera más experta aprovechando los recursos de esta clase TRATAMIENTO DE DATOS.
 3. Escogimos el repositorio porque está clasificado por SUS MACROS mencionados arriba de este documentos, también tiene subcategorías como por ejemplo ANALISIS DE MALWARE Y FORENSE, programas como autopsia, winhex, mobile audit, etc y un sin fin de repositorios que nos enseña como manejar, aplicar y mejorar las técnicas.
-4. Con un inicio desde el mes de diciembre del 2024 hasta la actualidad este repositorio con más de 10 colaboradores y con visitas con mas de 69 mil visitas lo hace uno de los repositorios más completos de GITHUB.  
+4. Con un inicio desde el mes de diciembre del 2024 hasta la actualidad este repositorio con más de 10 colaboradores y con mas de 69 mil visitas lo hace uno de los repositorios más completos de GITHUB.  
 
 
 -----------------------ENLACES DE INVESTIGACION----------------------------
