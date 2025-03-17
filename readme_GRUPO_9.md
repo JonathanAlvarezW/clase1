@@ -212,7 +212,7 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 
 ## Colaboradores de Clase1
 
-[![Jonathan Diego Alvarez](https://avatars.githubusercontent.com/u/12989029?v=4)](https://github.com/JonathanAlvarezW)
-[![Juan Carlos Arias](https://avatars.githubusercontent.com/u/7418657?v=4)](https://github.com/Pirinolas)
-[![Maria Fernanda Pacheco](https://avatars.githubusercontent.com/u/12345678?v=4)](https://github.com/MaferPacheco)
-[![Jairo Joel Siza](https://avatars.githubusercontent.com/u/9876543?v=4)](https://github.com/JoelSiza)
+[![Jonathan Diego Alvarez](https://avatars.githubusercontent.com/u/203370867?v=4)](https://github.com/JonathanAlvarezW)
+[![Juan Carlos Arias](https://avatars.githubusercontent.com/u/203370598?v=4)](https://github.com/Pirinolas)
+[![Maria Fernanda Pacheco](https://avatars.githubusercontent.com/u/203370720?v=4)](https://github.com/MaferPacheco)
+[![Jairo Joel Siza](https://avatars.githubusercontent.com/u/203370601?v=4)](https://github.com/JoelSiza)
