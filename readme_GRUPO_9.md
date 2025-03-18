@@ -210,6 +210,52 @@ Enlace del repositorio:
 https://github.com/Hack-with-Github/Awesome-Hacking
 
 
+## -----------------------OTRO REPOSITORIO RECOMENDADO----------------------------
+
+Repositorio: Recursos-ciberseguridad.  
+
+Este repositorio recopila una amplia gama de recursos enfocados en ciberseguridad, proporcionando herramientas, guías y materiales para distintos niveles de experiencia. Está diseñado para servir como una referencia útil tanto para principiantes que desean aprender sobre seguridad informática como para profesionales que buscan herramientas avanzadas.
+Secciones destacadas:  
+
+🔹Listas de Recursos  
+
+Other Awesome Lists: Compilación de listas destacadas que abordan temas diversos dentro de la ciberseguridad, facilitando el acceso a múltiples recursos.
+Formación en Ciberseguridad: Enlaces a cursos, tutoriales y materiales educativos, tanto gratuitos como de pago, que permiten desarrollar habilidades en seguridad informática.  
+
+ 🔹OSINT (Open Source Intelligence)  
+ 
+Recursos específicos para realizar investigaciones a partir de información de acceso público. Incluye herramientas y guías para rastrear datos en redes sociales, foros, registros públicos y más.  
+
+🔹Awesome Piracy  
+
+Lista de enlaces relacionados con la piratería informática, que explora técnicas, herramientas y estrategias utilizadas en entornos de seguridad ofensiva.  
+
+🔹Ingeniería Inversa (Reversing)  
+
+Documentación y herramientas dedicadas al análisis de software para comprender su funcionamiento interno, detectar vulnerabilidades y aplicar técnicas de depuración.  
+
+🔹Agentes GPT en Ciberseguridad  
+
+Recopilación de aplicaciones que emplean inteligencia artificial (IA) y modelos de lenguaje como GPT para realizar tareas de ciberseguridad, desde la generación de scripts hasta el análisis de amenazas.  
+
+ 🔹Crypto Cat CTF  
+ 
+Información sobre desafíos de tipo "Capture The Flag" (CTF), que consisten en resolver retos de seguridad diseñados para poner a prueba las habilidades de los participantes en diferentes áreas, como criptografía, análisis forense y explotación de vulnerabilidades.  
+
+🔹 OSINT en Discord  
+
+Herramientas y metodologías para realizar investigaciones OSINT dentro de la plataforma Discord, incluyendo la identificación de usuarios, rastreo de servidores y análisis de actividad.  
+
+¿Por qué este repositorio es valioso? 
+
+
+El repositorio Recursos-ciberseguridad es una excelente fuente de información para cualquier persona interesada en el campo de la ciberseguridad. Ofrece una estructura clara y categorizada que facilita la navegación, además de mantenerse actualizado con nuevas herramientas y técnicas. Su enfoque práctico lo convierte en una herramienta indispensable tanto para la formación como para el trabajo diario en entornos de seguridad informática.
+
+Enlace del repositorio:
+https://github.com/neftalito/Recursos-ciberseguridad
+
+
+
 ## Colaboradores de Clase1
 
 <a href="https://github.com/JonathanAlvarezW">
